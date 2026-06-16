@@ -1,6 +1,5 @@
 # FREIGHTPX GODOT MCP
 
-[![](https://badge.mcpx.dev?type=server 'MCP Server')](https://modelcontextprotocol.io/introduction)
 [![Made for Godot](https://img.shields.io/badge/Made_for-Godot_Engine-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)](https://godotengine.org)
 [![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white 'Node.js')](https://nodejs.org/en/download/)
 [![](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white 'TypeScript')](https://www.typescriptlang.org/)
