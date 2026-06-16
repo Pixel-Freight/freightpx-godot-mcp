@@ -1,16 +1,10 @@
 # FREIGHTPX GODOT MCP
 
-[![Sponsor on GitHub](https://img.shields.io/badge/Sponsor_on_GitHub-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/freightpx) [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/freightpx) [![Support on Ko-fi](https://img.shields.io/badge/Support_on_Ko--fi-29ABE0?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/freightpx)
-
 [![](https://badge.mcpx.dev?type=server 'MCP Server')](https://modelcontextprotocol.io/introduction)
-[![Made with Godot](https://img.shields.io/badge/Made%20with-Godot-478CBF?style=flat&logo=godot%20engine&logoColor=white)](https://godotengine.org)
-[![](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white 'Node.js')](https://nodejs.org/en/download/)
-[![](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white 'TypeScript')](https://www.typescriptlang.org/)
-
-[![](https://img.shields.io/github/last-commit/freightpx/freightpx-godot-mcp 'Last Commit')](https://github.com/freightpx/freightpx-godot-mcp/commits/main)
-[![](https://img.shields.io/github/stars/freightpx/freightpx-godot-mcp 'Stars')](https://github.com/freightpx/freightpx-godot-mcp/stargazers)
-[![](https://img.shields.io/github/forks/freightpx/freightpx-godot-mcp 'Forks')](https://github.com/freightpx/freightpx-godot-mcp/network/members)
-[![](https://img.shields.io/badge/License-MIT-red.svg 'MIT License')](https://opensource.org/licenses/MIT)
+[![Made for Godot](https://img.shields.io/badge/Made_for-Godot_Engine-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)](https://godotengine.org)
+[![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white 'Node.js')](https://nodejs.org/en/download/)
+[![](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white 'TypeScript')](https://www.typescriptlang.org/)
+[![](https://img.shields.io/badge/License-MIT-red.svg?style=for-the-badge 'MIT License')](https://opensource.org/licenses/MIT)
 
 ```text
   _____   _____   ______  _____  _____  _    _  _______  _____  __   __
